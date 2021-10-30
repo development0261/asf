@@ -479,3 +479,31 @@ ul.header-contact li + li {
         border-left: 0;
         border-right: 3px solid #170a59;
     }
+    .email{
+        width: 100%;
+        padding: 7px 7px;
+        border-radius: 5px;
+        /* border-color: #170a59; */
+        border: 1px solid #170a59;
+        margin-bottom: 15px;
+    }
+.sub-button{
+    height: 33px;
+    border-radius: 5px;
+    border: none;
+    background: #3da006;
+    color: white;
+    width: 165px;
+    margin: 0 auto;
+}
+.clear{
+    text-align: center;
+}
+.e-input{
+    width: 100%;
+        padding: 7px 7px;
+        border-radius: 5px;
+        /* border-color: #170a59; */
+        border: 1px solid #170a59;
+        margin-bottom: 15px;
+}
